@@ -3,14 +3,14 @@
 
 entries:
 
-  - title: <h3>Ideas & Thoughts</h3>
+  - title: <h3>Ideas, Thoughts & Projects</h3>
     entries:
-      - title: On Modernity
-        url: 2021/03/09/On-Modernity
-      - title: DUNKIN' in Italy
-        url: 2021/03/09/DUNKIN-in-Italy
+      - title: Modernity, Technology & the Future
+        url: 2021/03/09/Modernity,-Technology-&-the-Future
+      - title: Food
+        #url: 2021/03/09/DUNKIN-in-Italy
       - title: New Republic
-        url: 2021/03/09/New-Republic
+        #url: 2021/03/09/New-Republic
 
   - title: <h3>Recent Readings</h3>
     entries:
