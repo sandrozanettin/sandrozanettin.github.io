@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
+<blockquote>
+In the end there is the City of the Immortals,
+the ultimate goal of human technology,
+the sea of simulation,
+engulfing galaxies.
+</blockquote>
 
-Overcoming the limitations of the physical and psychological world through science, reason and technology.
-To make the world as transparent as possible, because what is know can be controlled.
-<br>Transparency and Control, Knowledge and Power, in service of real human needs and boundless human desires.
