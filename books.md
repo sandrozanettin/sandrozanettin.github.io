@@ -2,7 +2,8 @@
 layout: page
 title: Books Read
 ---
-<body>
+
+<p>
 <ul style="list-style-type:square">
     <li> Superclass - D. Rothkopf</li>
     <li> Baghdad Business School - H. Bond Gunning</li>
@@ -11,4 +12,4 @@ title: Books Read
     <li> Dune - F. Herbert</li>
     <li> Coup d'Etat - E. N. Luttwak</li>
 </ul>
-</body>
+</p>
