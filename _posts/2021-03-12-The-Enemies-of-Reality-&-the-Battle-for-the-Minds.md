@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+<br>
 <p>
 A quote of a then anonymous (now widely attributed to Karl Rove) White House aide during the George W. Bush Presidency:
 <blockquote>
