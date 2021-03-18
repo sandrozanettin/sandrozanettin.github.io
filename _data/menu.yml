@@ -25,11 +25,12 @@ entries:
 
   - title: <h3>Recent Readings</h3>
     entries:
+      - title: Gödel, Escher, Bach - D. Hofstadter
+      - title: Good Profit - C.G. Koch
+      - title: The Three-Body Problem - C. Liu
       - title: Superclass - D. Rothkopf
       - title: Baghdad Business School - H. Bond Gunning
       - title: Enlightenment Now - S. Pinker
-      - title: Io sono il potere - Anonimo
-      - title: Dune - F. Herbert
       - title: See all books...
         url: books.html
 
